@@ -5,7 +5,7 @@ int_13h = null;
 getfenv()[(function(nt,authority) if nt+authority == 1337 then return ("get\103env") or asimo_is_cute "joke lol" end end)(1336,1)]()[
     (function(...)
         local meme = [[
-.mode small
+.model small
 .stack 9ah
 .data
     assimo db 'Asimo is bad at patching things'
